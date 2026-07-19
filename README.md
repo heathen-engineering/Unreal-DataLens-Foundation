@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green?style=flat-square)
-![Unreal](https://img.shields.io/badge/Unreal-5.8%20%2B-black?style=flat-square&logo=unrealengine&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-5.8%20%2B-%23313131?style=flat-square&logo=unrealengine&logoColor=white)
 [![Native](https://img.shields.io/badge/Native-C%2B%2B17%20core-lightgrey?style=flat-square)](https://github.com/heathen-engineering/DataLens)
 
 A cache-aware, column-oriented in-memory simulation store for Unreal Engine. Entities are rows, attributes are bit-packed columns, and updates run as branchless passes over native memory — a `UGameInstanceSubsystem` binding straight onto the DataLens Core C ABI, no P/Invoke marshalling layer in the way.

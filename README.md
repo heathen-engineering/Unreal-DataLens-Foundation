@@ -10,7 +10,7 @@ A cache-aware, column-oriented in-memory simulation store for Unreal Engine. Ent
 -----
 
 ## 🛠 Also Available For
-[![Unity](https://img.shields.io/badge/Unity-2021.3%20%2B-black?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/heathen-engineering/Unity-DataLens-Foundation)
+[![Unity](https://img.shields.io/badge/Unity-2021.3%20%2B-%23313131?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/heathen-engineering/Unity-DataLens-Foundation)
 
 -----
 

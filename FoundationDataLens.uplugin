@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "DataLens Foundation",
+	"Description": "Heathen's cache-aware, columnar in-memory simulation database for large-scale actor/entity systems. Foundation tier: FOSS, no strings.",
+	"Category": "Data",
+	"CreatedBy": "Heathen",
+	"CreatedByURL": "https://heathen.group",
+	"DocsURL": "",
+	"FabURL": "",
+	"SupportURL": "https://discord.gg/6X3xrRc",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FoundationDataLens",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			]
+		}
+	]
+}

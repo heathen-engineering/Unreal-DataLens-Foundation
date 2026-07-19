@@ -1,0 +1,16 @@
+# Unreal plugin build artifacts (regenerated, never shipped in source)
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Agent scratch notes (local-only)
+.agent-notes/

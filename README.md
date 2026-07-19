@@ -9,6 +9,11 @@ A cache-aware, column-oriented in-memory simulation store for Unreal Engine. Ent
 
 -----
 
+## 🛠 Also Available For
+[![Unity](https://img.shields.io/badge/Unity-2021.3%20%2B-black?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/heathen-engineering/Unity-DataLens-Foundation)
+
+-----
+
 ## ⚙ Built on the DataLens Core
 
 This plugin is the Unreal binding over the engine-agnostic native [**DataLens Core**](https://github.com/heathen-engineering/DataLens) (C++17, Linux/Windows), vendored as a git submodule at `extern/DataLens`. The Core is where portability lives; each engine ships its own thin Foundation over it. Same substrate powers [DataLens Foundation (Unity)](https://github.com/heathen-engineering/Unity-DataLens-Foundation) and [HATE](https://github.com/heathen-engineering/Unity-Heathen-Attribute-gpTag-Engine-Foundation) on top.
